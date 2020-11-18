@@ -1,0 +1,275 @@
+scout e
+You quietly scout eastwards...
+
+oo
+cast n 'create food';eat food
+Ferry in the Anduin
+An elven scout  S L E E P I N G
+An elven scout  S L E E P I N G
+Exits/emulated: ~north~, south, ~east~, west.
+
+You stop scouting.
+
+!f CW Mana:Hot>
+You start to concentrate...
+
+e
+A magic mushroom suddenly appears.
+eat food
+
+!f CW Mana:Hot>
+You eat the mushroom.
+You are full.
+
+!f CW Mana:Hot>
+Ferry in the Anduin
+An elven scout  S L E E P I N G
+An elven scout  S L E E P I N G
+Exits: west.
+A trained horse (pa) has arrived from the west.
+
+![ CW Mana:Hot>wak elf
+You can't find any food.
+
+![ CW Mana:Hot>
+You cannot wake him up!
+
+![ CW Mana:Hot>bli elf
+cast n 'bli' elf
+You start to concentrate...
+
+Ok.
+An elven scout   ___ b l i n d 
+
+![ CW Mana:Hot>bli 2.elf
+cast n 'bli' 2.elf
+You start to concentrate...
+
+Ok.
+An elven scout   ___ b l i n d 
+
+![ CW Mana:Hot>k elf;f
+You feel more exposed.
+An elven scout wakes up and clambers to his feet.
+You slash an elven scout's right hand very hard.
+Your victim is shocked by your hit!
+An elven scout says 'Where are you, coward?'
+nod elf
+
+![ CW Mana:Hot an elven scout:Fine>
+You will attempt to flee!
+
+![ CW Mana:Hot an elven scout:Fine>
+You nod in agreement with him.
+
+![ CW Mana:Hot an elven scout:Fine>
+You flee head over heels.
+You flee west.
+Light Forest on the Riverbank
+The ferry is here, tied to a pier.
+There are two light boats of reeds here.
+A sturdy pier stands in the river.
+A robin is here, carrying small pieces of wood to its nest.
+Exits: ~north~, east, south, west.
+
+!f CW Mana:Hot>east
+Ferry in the Anduin
+Traces of intense white tones form the aura of this place.
+An elven scout stands here, blending in with the background.
+An elven scout  S L E E P I N G
+A trained horse (pa) is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits: west.
+
+![ CW Mana:Hot>
+Wright narrates 'Is it possible to track where someone came from instead of
+following after them?'
+
+![ CW Mana:Hot>k 2.elf
+An elven scout wakes up and clambers to his feet.
+You slash an elven scout's left arm hard and tickle it.
+An elven scout says 'Show yourself, coward!'
+
+![ CW Mana:Hot an elven scout:Fine>flee
+You will attempt to flee!
+
+![ CW Mana:Hot an elven scout:Fine>
+You flee head over heels.
+You flee west.
+Light Forest on the Riverbank
+The ferry is here, tied to a pier.
+There are two light boats of reeds here.
+A sturdy pier stands in the river.
+A robin is here, carrying small pieces of wood to its nest.
+Exits: ~north~, east, south, west.
+
+!f CW Mana:Hot>east
+Ferry in the Anduin
+Traces of intense white tones form the aura of this place.
+An elven scout stands here, blending in with the background.
+An elven scout stands here, blending in with the background.
+A trained horse (pa) is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits: west.
+
+![ CW Mana:Hot>sa wind
+Ok.
+
+![ CW Mana:Hot>
+The light of Aman fades away from you.
+use staff
+
+     B L E S S   O F F
+
+The spell lasted 9m43s.
+
+![ CW Mana:Hot>
+You raise your staff and call upon the Valar.
+You begin to feel the light of Aman shine upon you.
+
+![ CW Mana:Hot>inf %q
+You must have been sent to Arda to free it from the sorrows that weigh upon it.
+
+![ CW Mana:Hot>cb elf
+cast n 'cure b' elf
+You start to concentrate...
+
+Elentirmo narrates 'track'
+
+cb 2.elf
+Ok.
+
+![ CW Mana:Hot>
+cast n 'cure b' 2.elf
+You start to concentrate...
+
+Ok.
+
+![ CW Mana:Hot>sa wind
+An elven scout says 'YOU! Iminye! You will die before your time.'
+You swiftly dodge an elven scout's attempt to pierce you.
+
+![ CW Mana:Hot an elven scout:Fine>
+Ok.
+An elven scout says 'YOU! Iminye! You will die before your time.'
+You swiftly dodge an elven scout's attempt to pierce you.
+
+![ CW Mana:Hot an elven scout:Fine>f
+You flee head over heels.
+PANIC! You couldn't escape!
+
+![ CW Mana:Hot an elven scout:Fine>
+You flee head over heels.
+You flee west.
+Light Forest on the Riverbank
+The ferry is here, tied to a pier.
+You see two light boats of reeds on the ground.
+A sturdy pier stands in the river.
+A robin is here, carrying small pieces of wood to its nest.
+Exits: ~north~, east, south, west.
+
+!f CW Mana:Hot>
+A robin leaves vvvv S O U T H vvvv
+
+!f CW Mana:Hot>east
+bli elf
+Ferry in the Anduin
+Traces of fierce white tones form the aura of this place.
+An elven scout stands here, blending in with the background.
+An elven scout stands here, blending in with the background.
+A trained horse (pa) is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits: west.
+
+![ CW Mana:Hot>
+cast n 'bli' elf
+You start to concentrate...
+
+flee
+An elven scout says 'YOU! Iminye! You will die before your time.'
+An elven scout strikes for a weakness in your armour!
+An elven scout barely pierces your left foot and tickles it.
+Argh! You cannot concentrate any more...
+
+![ CW HP:Fine Mana:Hot an elven scout:Fine>
+An elven scout says 'YOU! Iminye! You will die before your time.'
+You swiftly dodge an elven scout's attempt to pierce you.
+You flee head over heels.
+You flee west.
+Light Forest on the Riverbank
+The ferry is here, tied to a pier.
+You see two light boats of reeds on the ground.
+A sturdy pier stands in the river.
+Exits: ~north~, east, south, west.
+
+!f CW HP:Fine Mana:Hot>east
+bli elf
+Ferry in the Anduin
+Traces of fierce white tones form the aura of this place.
+An elven scout stands here, blending in with the background.
+An elven scout stands here, blending in with the background.
+A trained horse (pa) is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits: west.
+
+![ CW HP:Fine Mana:Hot>
+cast n 'bli' elf
+You start to concentrate...
+
+Ok.
+An elven scout   ___ b l i n d 
+
+![ CW HP:Fine Mana:Warm>west
+Light Forest on the Riverbank
+The ferry is here, tied to a pier.
+There are two light boats of reeds here.
+A sturdy pier stands in the river.
+Exits: ~north~, east, south, west.
+A trained horse (pa) has arrived from the east.
+
+!f CW HP:Fine Mana:Warm>east
+bli 2.elf
+Ferry in the Anduin
+Traces of fierce white tones form the aura of this place.
+An elven scout stands here, blending in with the background.
+An elven scout stands here, blending in with the background.
+Exits: west.
+A trained horse (pa) has arrived from the west.
+
+![ CW HP:Fine Mana:Warm>
+cast n 'bli' 2.elf
+You start to concentrate...
+
+wind
+Ok.
+An elven scout   ___ b l i n d 
+
+![ CW Mana:Warm>
+But the crew is already here!
+
+![ CW Mana:Warm>
+An elven scout bleeds from open wounds.
+
+![ CW Mana:Warm>whre
+where
+Players in your zone
+--------------------
+Iminye               - Ferry in the Anduin
+
+![ CW Mana:Warm>
+Wright narrates 'but you will have to issue the command in each room?'
+
+![ CW Mana:Warm>
+Your legs feel heavier.
+The spell lasted 3m29s.
+
+![ CW Mana:Warm>wind
+But the crew is already here!
